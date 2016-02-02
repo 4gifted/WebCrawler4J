@@ -3,4 +3,4 @@ A Java implemented web crawler framework
 distributed crawler accept remote submit using class name and params;
 
 ## License
-MIT
+MIT License
